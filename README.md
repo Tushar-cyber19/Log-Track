@@ -68,13 +68,13 @@ Docs: [pynput Documentation](https://pynput.readthedocs.io/en/latest/)
 3. **Run the program:**
 
    ```bash
-   python monitor.py
+   python Monitor.py
    ```
 
    or (depending on your system):
 
    ```bash
-   python3 monitor.py
+   python3 Monitor.py
    ```
 
 4. **Check the output file:**
